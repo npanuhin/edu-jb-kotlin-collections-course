@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-03-22T14:05:06" hostname="LAPTOP-PANUHIN" time="0.668">
+  <properties/>
+  <testcase name="getAllPossibleColorsMethodTest()" classname="Test" time="0.174"/>
+  <testcase name="groupPhotosByHairAndHatMethodTest()" classname="Test" time="0.206"/>
+  <testcase name="toPhotoCharactersMethodTest()" classname="Test" time="0.004"/>
+  <testcase name="groupPhotosByColorMethodTest()" classname="Test" time="0.046"/>
+  <testcase name="toColorMethodTest()" classname="Test" time="0.014"/>
+  <testcase name="findPhotoMethodBaseTest()" classname="Test" time="0.19"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

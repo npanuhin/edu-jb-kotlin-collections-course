@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-03-22T14:28:52" hostname="LAPTOP-PANUHIN" time="1.239">
+  <properties/>
+  <testcase name="getCommandTestMethodBaseTest()" classname="Test" time="0.072"/>
+  <testcase name="getCommandTestMethodStackTest()" classname="Test" time="0.006"/>
+  <testcase name="commandFieldTest()" classname="Test" time="0.073"/>
+  <testcase name="getCommandTestMethodQueueTest()" classname="Test" time="0.002"/>
+  <testcase name="addCommandTestMethodTest()" classname="Test" time="0.022"/>
+  <testcase name="gameServiceTestClassTest()" classname="Test" time="1.054"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
